@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class ArithmeticOperators {
     public static void main(String[] args) {
         /*
-        = assignment operator
+        =jklj assignment operator
 
         == equal equal operator (compares two variables if they are equal or not)
         ! = not equeal opearotr ( compares if two variables are not equal)
