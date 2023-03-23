@@ -23,6 +23,7 @@ public class Palindrome {
         for (int i = 0; i < length ; i++) {
             if (word.charAt(i) != word.charAt(length - 1 - i)) {
                 isPalidrome = false;
+                break;
             }
         }
         System.out.println("Is " + word + " palindrome : " + isPalidrome);
